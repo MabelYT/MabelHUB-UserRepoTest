@@ -1,2 +1,2 @@
 # MabelHUB-UserRepoTest
-Testing MabelHUB's UserRepo Functionality.
+Testing MabelHUB's User Repo Functionality.
